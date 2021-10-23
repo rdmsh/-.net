@@ -1,0 +1,22 @@
+{
+    "/secure": {
+        "target": "http://films.net",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/storage": {
+        "target": "http://films.net",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/client": {
+        "target": "http://films.net",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/__clockwork": {
+        "target": "http://films.net",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
